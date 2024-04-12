@@ -26,4 +26,6 @@ The solution provided here utilizes the Hill Climbing algorithm to solve the 8 Q
    - The final solution is visually represented using Tkinter, a Python GUI library. The graphical representation shows the positions of the queens on the chessboard.
 
 Overall, the Hill Climbing algorithm provides a simple yet effective approach to solving the 8 Queens problem by iteratively improving the placement of queens based on a heuristic evaluation of the current state. Random restarts further enhance the algorithm's ability to explore the search space and find better solutions.
+
+
 ![8 Queens Solution](Q.png)
