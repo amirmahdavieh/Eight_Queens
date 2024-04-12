@@ -27,5 +27,8 @@ The solution provided here utilizes the Hill Climbing algorithm to solve the 8 Q
 
 Overall, the Hill Climbing algorithm provides a simple yet effective approach to solving the 8 Queens problem by iteratively improving the placement of queens based on a heuristic evaluation of the current state. Random restarts further enhance the algorithm's ability to explore the search space and find better solutions.
 
+<p align="center">
+  <img src="Q.png" alt="8 Queens Solution">
+</p>
 
-![8 Queens Solution](Q.png)
+
